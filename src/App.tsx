@@ -62,7 +62,7 @@ const Navbar = () => {
             <PsiIcon size={28} />
           </div>
           <div className="flex flex-col">
-            <span className="text-2xl font-serif text-text-dark font-normal tracking-wide">Terapeuta Inês</span>
+            <span className="text-2xl font-serif text-text-dark font-normal tracking-wide">Terapeuta Inez</span>
             <span className="text-[10px] uppercase tracking-[3px] text-primary font-bold">TRG</span>
           </div>
         </a>
@@ -239,7 +239,7 @@ export default function App() {
               whileInView={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8 }}
             >
-              <span className="text-primary font-bold tracking-[3px] uppercase text-[12px] block mb-6">SOBRE INÊS</span>
+              <span className="text-primary font-bold tracking-[3px] uppercase text-[12px] block mb-6">SOBRE INEZ</span>
               <h2 className="text-4xl md:text-5xl font-serif text-text-dark mb-10 leading-tight font-normal">Acolhimento e Transformação</h2>
               
               <div className="bg-brown-dark/5 p-12 rounded-2xl border border-primary/10 mb-12">
@@ -458,7 +458,7 @@ export default function App() {
                 <PsiIcon size={24} className="text-primary" />
               </div>
               <div className="flex flex-col">
-                <span className="text-2xl font-serif text-white font-normal tracking-wide">Terapeuta Inês</span>
+                <span className="text-2xl font-serif text-white font-normal tracking-wide">Terapeuta Inez</span>
                 <p className="text-[10px] text-primary mt-1 uppercase tracking-[3px] font-bold">TRG</p>
               </div>
             </div>
@@ -470,7 +470,7 @@ export default function App() {
             </div>
 
             <p className="text-[12px] text-white opacity-50 font-medium">
-              © {new Date().getFullYear()} Terapeuta Inês
+              © {new Date().getFullYear()} Terapeuta Inez
             </p>
           </div>
         </div>
